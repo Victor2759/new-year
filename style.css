@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+nav {
+margin: 10px;
+}
+.icon {
+    text-decoration: none;
+    border: solid greenyellow;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: black;
+}
+h1 {
+    color: lightsteelblue;
+    border: solid teal;
+    width: 200px;
+    text-align: center;
+    border-radius: 90px;
+}
+footer {
+    background-color: burlywood;
+    
+}
